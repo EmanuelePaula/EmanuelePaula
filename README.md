@@ -3,7 +3,7 @@
 🎓 Estudante de **Sistemas de Informação**
 💻 Aprendendo programação e desenvolvimento de software
 📚 Atualmente estudando **Java, Estruturas de Dados e Git/GitHub**
-Estudando **Inglês**
+e Estudando **Inglês**
 
 ## 🚀 Atualmente aprendendo
 
