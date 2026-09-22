@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I am Manu!
 
-<!--
-**EmanuelePaula/EmanuelePaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação**
+💻 Aprendendo programação e desenvolvimento de software
+📚 Atualmente estudando **Java, Estruturas de Dados e Git/GitHub**
+🇺🇸 Estudando **Inglês**
 
-Here are some ideas to get you started:
+## 🚀 Atualmente aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Estruturas de Dados e Algoritmos
+* Git e GitHub
+* Lógica de Programação
+* Desenvolvimento de Software
+
+## 💡 Projeto de Extensão
+Conectando Gerações
+Projeto de extensão da faculdade desenvolvido em parceria com a **Rádio Queluz FM**, que busca aproximar diferentes gerações por meio da tecnologia, da comunicação e do conhecimento.
+O projeto também faz parte da minha experiência com comunicação e produção de conteúdo para rádio.
+
+## 📻 Além da programação
+Também atuo na área de comunicação e produção de conteúdo em rádio, conciliando tecnologia, comunicação e criatividade.
+---
+🌱 Sempre aprendendo, criando e evoluindo.
+
