@@ -1,4 +1,4 @@
-# Hello, I am Manu!
+# Olá, eu sou a Manu!
 
 🎓 Estudante de **Sistemas de Informação**
 💻 Aprendendo programação e desenvolvimento de software
