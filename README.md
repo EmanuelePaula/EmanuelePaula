@@ -14,8 +14,8 @@ e Estudando **Inglês**
 * Desenvolvimento de Software
 
 ## 💡 Projeto de Extensão
-Conectando Gerações
-Projeto de extensão da faculdade desenvolvido em parceria com a **Rádio Queluz FM**, que busca aproximar diferentes gerações por meio da tecnologia, da comunicação e do conhecimento.
+Conectando Gerações é o meu
+projeto de extensão da faculdade desenvolvido em parceria com a **Rádio Queluz FM**, que busca aproximar diferentes gerações por meio da tecnologia, da comunicação e do conhecimento.
 O projeto também faz parte da minha experiência com comunicação e produção de conteúdo para rádio.
 
 ## 📻 Além da programação
